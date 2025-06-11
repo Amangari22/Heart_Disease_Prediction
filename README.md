@@ -5,8 +5,7 @@ This project aims to predict the presence of heart disease in a patient using ma
 # Features
 
 - Predicts whether a person has heart disease or not.
-- Uses various machine learning algorithms (e.g., Logistic Regression, Random Forest, SVM).
-- User-friendly interface (CLI or Web App).
+- Uses various machine learning algorithms (e.g., Logistic Regression, Random Forest, SVM)..
 - Trained on a publicly available dataset (e.g., UCI Heart Disease Dataset).
 - Visualization of data and model evaluation metrics.
 
@@ -40,9 +39,8 @@ The dataset used is the **UCI Heart Disease Dataset**, which includes the follow
 # Tech Stack
 
 - Python
-- Jupyter Notebook / PyCharm / VS Code
+- Jupyter Notebook / PyCharm / VS Code/ google colab
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- (Optional) Flask/Streamlit for web interface
 
 # Model Evaluation
 
